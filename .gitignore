@@ -1,0 +1,16 @@
+*solution*
+*original*
+poznamky
+*.xopp
+**/__pycache__/*
+
+# prozatim
+playground.ipynb
+
+
+# postupne oddelavat
+lekce2/*
+lekce3/*
+lekce4/*
+lekce5/*
+lekce6/*
